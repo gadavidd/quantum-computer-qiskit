@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93ca6328-9108-408e-b20e-15be6ee96dc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qiskit-quantum-computer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms_deutsch-jozsa.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Aula05_Schroedinger_Particula_Livre.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod2_Algebra1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod2_Algebra2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod2_Probabilidade.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod3_Qubit.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod4_Portas1a.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod4_Portas1b.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod4_Portas1c.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod5_Portas2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod6_CircuitoQuantico.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod7_EstadosdeBell1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod7_EstadosdeBell2_Atividade.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod7_EstadosdeBell3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod7_EstadosdeBell4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod7_Teleportacao1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Mod7_Teleportacao2_Atividade.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Teletransporte_Qiskit.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course_summer_school_vnt/Teletransporte__Ket-2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentos_computacao_quantica_handsOn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qiskit_algorithmus.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qiskit_teleportation.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3APLcD0eQsKGfv3wzObs2p9wTBj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gadavid/PycharmProjects/qiskit/curso_&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gadavid\PycharmProjects\qiskit\curso_" />
+      <recent name="C:\Users\gadavid\PycharmProjects\qiskit" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.439" />
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93ca6328-9108-408e-b20e-15be6ee96dc0" name="Changes" comment="" />
+      <created>1772489335449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772489335449</updated>
+      <workItem from="1772489336475" duration="148000" />
+      <workItem from="1772489494593" duration="6994000" />
+      <workItem from="1772588247281" duration="642000" />
+      <workItem from="1772670516523" duration="1719000" />
+      <workItem from="1773062640712" duration="600000" />
+      <workItem from="1773077629054" duration="4000" />
+      <workItem from="1775870384707" duration="491000" />
+      <workItem from="1775870906896" duration="5000" />
+      <workItem from="1775871037003" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
